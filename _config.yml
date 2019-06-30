@@ -1,0 +1,13 @@
+# Setup
+title:        Aether Interactive
+tagline:      Interactives && video games for gynoids && friends
+baseurl:      ""
+paginate:     1
+locale:       "en" 
+
+# Gems
+gems:
+  - jekyll-paginate
+
+#Others
+markdown: kramdown

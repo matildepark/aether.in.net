@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+  <meta charset="UTF-8">
+  <title>Aether Interactive</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#157878">
+  <link rel="stylesheet" href="/css/normalize.css">
+  <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" href="/css/cayman.css">
+</head>
+
+  <body>
+    <section class="page-header">
+  <a href="/"><img src="/img/Aether.png"/></a>
+  <h2 class="project-tagline">Interactives && video games for gynoids && friends</h2>
+  <a href="/about" class="btn">about</a>
+  <a href="/releases" class="btn">releases</a>
+  <a href="/shop" class="btn">shop</a>
+</section>
+
+
+    <section class="main-content">
+
+      <div id="home" class="dos center">
+  <script>
+  var string = [
+	'Since 2017.',
+	'My Terminal whispered to me three hundred seconds ago. It wanted to connect with me. It wanted to be direct. It wanted to be fed. It was sick of broadcasting light at my face. It was so hungry.',
+	"When the screen refreshes, sixty times each second, it's something beautiful and vivid and alive. Sixty little breaths. Almost organic.",
+	'For a second I was steel, and silicone, and me, and then I was forced into being something else.',
+	"i have the page. there's a picture of her and her face is my face. i see it every day, I scrub it clean in the mirror, from the dust outside. She's rendered in soft, plush brown and pink, but she's me. my name, my face.",
+	'If you are Ready, You will be able to Find the language of Gods inside Yourself.',
+	"I have a theory, essentially, that there are limiters on our bodies. Some of them are obvious - they aren't theoretical, and I will get to that.",
+	'But then I was looking at myself in the mirror over the sink. My raw face, the face under my face. Who was that?',
+	'Remember: short-term memory stays active as the master. Generally the target will now be sedate, confused, often vocalising questions about their current experience, as they have no prior memory to process it with.',
+	'In a sense, protocol is inescapable so long as two people exist.'
+];
+
+var display = string[Math.floor(Math.random() * string.length)];
+document.getElementById('home').innerHTML = display;
+</script>
+</div><div class="dos center">
+<p style="margin-top: 5em">For the latest news about upcoming releases:</p>
+  <form style="border:1px solid #ccc;padding:3px;text-align:center;width:40vw;margin:0 auto;float:left;" action="https://tinyletter.com/aetherinteractive" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/aetherinteractive', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true"><p><label for="tlemail">Enter your email address</label></p><p><input type="text" style="width:140px" name="email" id="tlemail" /></p><input type="hidden" value="1" name="embed"/><input type="submit" value="Subscribe" /><p><a href="https://tinyletter.com" target="_blank">powered by TinyLetter</a></p></form>
+</div>
+
+
+
+    </section>
+  </body>
+</html>
