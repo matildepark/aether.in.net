@@ -3,7 +3,8 @@ layout: default
 title: {{ site.name }}
 ---
 
-<div id="home" class="dos center">
+<div class="dos center">
+	<p id="home"></p>
   <script>
   var string = [
 	'Since 2017.',
@@ -21,7 +22,8 @@ title: {{ site.name }}
 var display = string[Math.floor(Math.random() * string.length)];
 document.getElementById('home').innerHTML = display;
 </script>
-</div><div class="dos center">
-<p style="margin-top: 5em">For the latest news about upcoming releases:</p>
-  <form style="border:1px solid #ccc;padding:3px;text-align:center;width:40vw;margin:0 auto;float:left;" action="https://tinyletter.com/aetherinteractive" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/aetherinteractive', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true"><p><label for="tlemail">Enter your email address</label></p><p><input type="text" style="width:140px" name="email" id="tlemail" /></p><input type="hidden" value="1" name="embed"/><input type="submit" value="Subscribe" /><p><a href="https://tinyletter.com" target="_blank">powered by TinyLetter</a></p></form>
+<span style="display:inline-block;border: 4px double cyan;padding:1em;background:black;margin-top:2em;">Looking for our games? They're all available on <a href="https://aetherinteractive.itch.io">itch.io</a>.</span>
+</div><div class="dos2 center">
+<p style="margin-top: 3em">If there could ever be a future, would you want to know?</p>
+  <form style="border:3px double cyan;padding:3px;text-align:center;width:40vw;margin:0 auto;background:black;" action="https://tinyletter.com/aetherinteractive" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/aetherinteractive', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true"><p><label for="tlemail">Enter your email address:</label></p><p><input type="text" placeholder="hopper@meshmail.net" style="width:250px;background:transparent;border:0;border-bottom:1px solid cyan;" name="email" id="tlemail" /></p><input type="hidden" value="1" name="embed"/><input type="submit" value="Subscribe" style="color:black;border:0;background: cyan;padding: 4px;box-shadow: 2px 2px 1px red;outline:0;" /><p><a href="https://tinyletter.com" target="_blank"><small>powered by TinyLetter</small></a></p></form>
 </div>
