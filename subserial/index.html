@@ -1,0 +1,212 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Subserial Network: A multi-window video game experience for organics</title>
+<meta name="description" content="An Aether Interactive production, a narrative adventure where you join with the terminal and terminate defective synthetics.">
+  <meta name="author" content="Matilde Park">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta property="og:title" content="Subserial Network">
+<meta property="og:description" content="A multi-window video game experience for organics, by Aether Interactive.">
+<meta property="og:image" content="http://aether.in.net/subserial/cover.jpg">
+<meta name="twitter:image" content="http://aether.in.net/subserial/cover.jpg">
+<meta name="twitter:card" content="summary_large_image">
+<link href="https://fonts.googleapis.com/css?family=EB+Garamond|Nanum+Gothic:400,700" rel="stylesheet">
+<style>
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes float {
+  from {
+    transform: translateY(10px);
+  }
+  to {
+    transform: translateY(-10px);
+  }
+}
+
+@keyframes fadeInSlideUp {
+  from {
+    opacity: 0;
+    transform: translateY(500px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0px);
+  }
+}
+
+@media all and (max-width: 768px) {
+  h2 {
+    font-size: 2em !important;
+  }
+.header {
+  height: 60vh !important;
+}
+main p, li {
+  width: 75vw !important;
+}
+ }
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	vertical-align: baseline;
+}
+
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+  background-color: #FEFDF8;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+.header {
+  opacity: 0;
+  height: 80vh;
+  background-color: #FEFDF8;
+  width: 100vw;
+  background: url('cover.jpg') no-repeat;
+  background-size: contain;
+  background-position: top;
+  animation: fadeIn 3s ease forwards;
+  animation-delay: 2s;
+}
+
+.tagline {
+  background: url('Aether.png') no-repeat;
+  width: 100vw;
+  height: 35vh;
+  background-size: contain;
+  background-position: center;
+  opacity: 0;
+  animation: fadeIn 3s ease forwards;
+  animation-delay: 4s;
+}
+
+main {
+  opacity: 0;
+  animation: fadeInSlideUp 3s ease forwards;
+  animation-delay: 7s;
+  width: 100vw;
+  font-family: "Nanum Gothic", sans-serif;
+  letter-spacing: 1px;
+}
+
+h2 {
+  font-family: "EB Garamond", serif;
+  text-align: center;
+  letter-spacing: -1px;
+  font-size: 4em;
+  margin-bottom: 1em;
+  margin-top: 1em;
+}
+a {
+  color: #4D8285;
+}
+
+main p, li {
+  display: block;
+  width: 50vw;
+  margin: 1em auto 1em auto;
+  font-size: 0.9em;
+  line-height: 1.5em;
+}
+b {
+  color: #4D8285;
+  font-weight: 700;
+}
+
+footer {
+  height: 20vh;
+  width: 100vw;
+  background: url('humble.png') no-repeat;
+  background-size: contain;
+  background-position: center;
+  margin-bottom: 1em;
+  margin-top: 1em;
+}
+
+main a img {
+  display: block;
+  margin: 0 auto;
+  max-width: 50vw;
+}
+.video-wrapper {position: relative; padding-bottom: 56.25%; /* 16:9 */  padding-top: 25px;}
+.video-wrapper iframe {position: absolute; top: 0; left: 0; width: 100%; height: 100%;}
+
+iframe {
+  display: block;
+  margin: 0 auto;
+}
+</style>
+</head>
+<body>
+<div class="header"><span class="background-image" role="img" aria-label="Subserial Network. Join with the terminal and terminate defective synthetics."></span></div>
+<a href="http://aether.in.net" target="_blank"><div class="tagline"><span class="background-image" role="img" aria-label="An Aether Interactive production"></span></div></a>
+<main>
+  <iframe src="https://itch.io/embed/248620" height="167" width="552" frameborder="0"></iframe>
+  <h2>The first cycle is <b>over</b>.</h2>
+  <p>Welcome to synthetic life. We aren't human, but we sure look a lot like them. We even have a life purpose: to emulate them, to desire, to live. If we don't, the Machine will just delete us and start over. She needs us like this, and no one knows why.</p>
+  <p>The trouble is, <b>it's never that easy</b>. There's a group of synthetics modifying themselves beyond the standard body modifications available with authorised technicians. They're <b>installing a serial port</b> into themselves: to network, to communicate in information, to be more machine. To remove our human image.</p>
+  <a href="email.png" target="_blank"><img src="email.png"/></a>
+  <h2>Join with the <b>terminal</b>.</h2>
+    <p><b>That's where you come in</b>: use this interface to take control of a CETUS agent and track down the whereabouts of their leader, Andromeda. MAC addresses are specific to a body, but irrelevant: when they live inside the Net, their location could be anywhere. Everywhere.</p>
+    <a href="web.png" target="_blank"><img src="web.png"/></a>
+  <h2>Welcome to the <b>mesh network</b>.</h2>
+    <p>Organic knowledge architecture originated with their Net: and since their Net became the Machine, all we had was the printed materials of its genesis. Using the seminal text, RFC 1738, synthetics society has been able to reclaim ended synthetics into new terminals to network with each other, as the organics once did, and curb their urges.</p>
+    <p>The mesh network is your next stop. Are you ready? <b>Sign in.</b></p>
+    <div class="video-wrapper">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/aBdcdqSi_z4?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
+    <h2>Coming soon to <b>organic terminals</b>...</h2>
+    <ul>
+      <li>A <b>multi-window experience</b> directed by <a href="http://Matildepark.ca" target="_blank">Matilde Park</a> and co-written by <a href="http://Matildepark.ca" target="_blank">Matilde Park</a> and <a href="http://wonderbreath.work" target="_blank">Penelope Evans</a>.</li>
+      <li>A <b>retrofuture like no other</b>, with art direction by <a href="https://twitter.com/barchboi" target="_blank">BARCHboi</a>.</li>
+      <li>A full soundtrack, "<a href="https://esselfortium.bandcamp.com/album/transmission-control-music-from-subserial-network">Transmission Control</a>," composed by <a href="http://esselfortium.net" target="_blank">Sarah "Esselfortium" Mancuso</a>.</li>
+      <li>Production and technical leadership <b>ensuring organic-synthetic connection integrity</b>, provided by <a href="http://twitter.com/henryfaber" target="_blank">Henry Faber</a> and <a href="http://www.jlevstein.com/" target="_blank">Jonathan Levstein</a>.</li>
+            <a href="player.png" target="_blank"><img src="player.png" style="max-width: 30vw;"/></a>
+    </ul>
+    <iframe src="https://itch.io/embed/248620" height="167" width="552" frameborder="0"></iframe>
+    <form style="margin-top: 1em;padding:3px;text-align:center;" action="https://tinyletter.com/aetherinteractive" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/aetherinteractive', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true"><p><label for="tlemail">For more information, enter your email address for updates: </label></p><p><input type="text" style="width:140px" name="email" id="tlemail" /></p><input type="hidden" value="1" name="embed"/><input type="submit" value="Subscribe" /></form>
+</main>
+<footer>
+  <span class="background-image" role="img" aria-label="A Humble Original project"></span>
+</footer>
+</body>
+</html>
