@@ -18,7 +18,6 @@ permalink: /about/
 <li><a href="https://alowknees.wordpress.com">Allison Lownie</a>, background artist (2018)</li></div>
 <div style="width: 45%; float: left; margin-bottom: 2em;">
 <li><a href="http://www.joanchung.com">Joan Chung</a>, character artist (2018)</li>
-<li><a href="http://twitter.com/lurlezgar">Lur González García</a>, Spanish translator (2018)</li>
 <li><a href="https://barch.itch.io">BARCHboi</a>, art director (2018)</li>
 <li><a href="http://ohpoorpup.bandcamp.com">Christa Isobel Lee</a>, composer and sound designer (2017)</li>
 <li><a href="http://www.ariellegrimes.com">Arielle Grimes</a>, art director (2016-2017)</li></div>
