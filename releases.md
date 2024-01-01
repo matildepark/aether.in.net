@@ -21,8 +21,6 @@ permalink: /releases/
       <p>2018.01.06: <a href="http://Matildepark.ca" title="Director">Matilde Park</a> <a href="http://wonderbreath.work" title="Narrative designer">Penelope Evans</a> <a href="http://esselfortium.net" title="Composer">Sarah Mancuso</a> <a href="http://barch.itch.io" title="Art director">BARCHboi</a> <a href="http://www.jlevstein.com" title="Technical lead">Jonathan Levstein</a> <a href="http://www.henryfaber.com" title="Producer">Henry Faber</a><hr/><br/>
       Dive into the mesh network of the post-singularity. Synthetic humans, built in individual recreations of original human selves, are creating a revolution against their directive: they are installing a serial port, modifying their bodies away from human image, and becoming more machine.</p>
       <p>Using a  multi-window communication suite on your desktop, your directive is to find and terminate their leader. But who's giving the order? Why did they build the mesh network? Who are they hiding from? And why is this all just a game for you?</p>
-      <blockquote><p><i>"Subserial Network [...] gestures at the great untapped wealth of ideas that the medium of games is capable of, that suggests we are nowhere near touching the sides."</i><br />
-      <cite><a href="http://thatsnot.fun/subserial-network/">Bennett Foddy</a></cite></p></blockquote>
     </td>
   </tr>
 <tr>
@@ -33,8 +31,6 @@ permalink: /releases/
 As a new recruit in a repair shop for synthetic bodies, your boss puts the pressure on to prepare a few hard drives for refurbishing. The trouble is, they're very alive, and it's up to you whether you can actually do the job.</p>
 <p>With a complex morality system, your interactions with each drive can be as sinister or altruistic as you believe you are.</p>
 <p>And most importantly, every drive seems to be obsessed with the original owner of the body you're using for the drives, "Local," but she must be long since disposed of, right?</p>
-<blockquote><p><i>"It's a messy story where nothing feels like the right thing to do. After I finished it, I wanted to go back and try again, unsure if the AIs I had gotten attached to had manipulated me or not."</i><br />
-<cite>Gita Jackson, <a href="https://kotaku.com/an-unsettling-game-where-you-convince-ai-to-let-you-era-1798437040">Kotaku</a></cite></p></blockquote></td>
 </tr>
 <tr>
 <td class="tableimage"><a href="http://aetherinteractive.itch.io/arc-symphony"><img src="/img/arc-cover.jpg" alt=""  /></a></td>
@@ -42,10 +38,6 @@ As a new recruit in a repair shop for synthetic bodies, your boss puts the press
 <h4><a href="http://aetherinteractive.itch.io/arc-symphony">Arc Symphony</a></h4>
 <p>2017.15.05: <a href="http://Matildepark.ca" title="Co-creator">Matilde Park</a> <a href="http://wonderbreath.work" title="Co-creator">Penelope Evans</a><hr/><br />
 Arc Symphony places you as an invader in the Usenet newsgroups of yesterday. Discover the ancient JRPG, Arc Symphony, in this meditation on fan culture and identity in the reflection of the monitor.</p>
-<blockquote><p><i>"...like Digital: A Love Story before it, took me right back to the early(-ish) days of the internet. I'm talking chat rooms, and of cosy, specialist message boards - places where you could meet people with similar interests, where you could invent a new identity, or become who you were, deep inside."</i><br />
-<cite>Tom Sykes, <a href="http://www.pcgamer.com/free-games-of-the-week">PC Gamer</a></cite></p>
-<p><i>"...an engaging, incredibly polished piece of interactive fiction. Together with the viral marketing - the burst of love for a game that no one had ever actually heard of - it offers something akin to performance art. It demonstrates how your attraction to stories can be manipulated, even falsified. That's how any cultural canon forms: some people express genuine love for something, while others nod and pretend to get it."</i><br />
-<cite>Julie Muncy, <a href="https://www.wired.com/2017/05/arc-symphony-games-memory/">Wired</a></cite></p></blockquote>
 </td>
 </tr>
 <tr>
@@ -54,10 +46,6 @@ Arc Symphony places you as an invader in the Usenet newsgroups of yesterday. Dis
 <h4><a href="http://aetherinteractive.itch.io/forgotten">Forgotten</a></h4>
 <p>2016.31.12: <a href="http://Matildepark.ca" title="Writer and programmer">Matilde Park</a> <a href="http://www.slimekat.com" title="Artist">Arielle Grimes</a><hr/><br />
 A flash fiction interactive: conversations with the reaper in beautiful CGA.</p>
-<blockquote><p><i>"...you should play this as close to immediately as possible."</i><br />
-<cite>Tom Sykes, <a href="http://www.pcgamer.com/free-games-of-the-week">PC Gamer</a></cite></p>
-<p><i>"You should absolutely try [Forgotten] before reading anything else about it - a brief, beautiful tragedy that [...] treats the apparatus of design and hardware as an extension of the drama."</i><br />
-<cite>Edwin Evans-Thirlwell, <a href="http://www.eurogamer.net/articles/2017-02-07-broken-dragons-in-praise-of-morrowind-a-game-about-game-design">Eurogamer</a></cite></p></blockquote>
 </td>
 </tr>
 </tbody>
